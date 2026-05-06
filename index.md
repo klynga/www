@@ -1,0 +1,1 @@
+Språkmodellklynge Norge
