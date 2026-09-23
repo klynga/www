@@ -52,7 +52,7 @@ Det kreves rask og koordinert handling på regjeringsnivå, inkludert samhandlin
 5. **Utvikle rettslige og praktiske rammer** for datadeling, som balanserer opphavsrett og personvern med behovene for trening på storskala data og for inspeksjon og validering av modeller.
 6. Etablere norsk medlemskap i det **europeiske *Alliance for Language Technologies*** (ALT-EDIC) og økonomiske rammer for deltakelse fra universitetsmiljøer i ***Digital Europe*****-programmet**.
 
-Norge har de språklige, faglige og institusjonelle forutsetningene for å bygge egenutviklede, åpne og etterprøvbare språkmodeller som speiler landets språk, kultur og samfunn.
+Norge har de faglige og institusjonelle forutsetningene for å bygge egenutviklede, åpne og etterprøvbare språkmodeller som speiler landets språk, kultur og samfunn.
 Vinduet er smalt.
 En koordinert nasjonal satsning på LLM-forskning og -infrastruktur vil legge det faglige fundamentet for et helhetlig økosystem og dermed bidra sentralt til digital suverenitet, samfunnssikkerhet og kulturell identitet.
 
