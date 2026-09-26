@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Om oss
+title: Om
 permalink: /om/
 ---
 
@@ -47,10 +47,10 @@ og samisk innhold.
 ble invitert som faste observatører, og det forventes at flere norske
 FoU-miljøer på språkmodeller og andre relevante aktører vil inviteres
 inn i dette samarbeidet.
+
 I februar 2026 ble det holdt et <a href="https://www.khrono.no/samler-norsk-sprakmodell-forskning-i-ny-nasjonal-klynge/1035657" target="_blank">heldagsmøte i Oslo</a>, og partene jobber gjennom
 månedlige møter i koordineringsgruppa for å bygge rammer og strukturer som fremmer
 samarbeid og kunnskapsutveksling.
-
 <div align="center">
   <img src="/images/260205.png" alt="Oppstartstøte, 25. januar 2026" width="100%">
   <p>Fra venstre: Erik Velldal (LTG), Svein Arne Brygfjeld (NB), Nina Teigland (Språkrådet), Lilja Øvrelid (LTG), Gunnar Bøe (Sigma2), Benjamin Kille (NorwAI), Stephan Oepen (LTG), Kerstin Bach (NorwAI), Yngvil Beyer (NB), Kristine Eide (Språkrådet), Javier de la Rosa (NB), Jon-Atle Gulla (NorwAI).</p>

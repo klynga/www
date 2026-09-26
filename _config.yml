@@ -28,6 +28,11 @@ url: https://www.språkmodellklynge.no
 github_username: klynga
 linkedin_username:  klynga
 
+header_pages:
+  - index.md
+  - summit.md
+  - about.md
+  
 # Build settings
 theme: minima
 plugins:
