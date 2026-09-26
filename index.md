@@ -32,7 +32,7 @@ permalink: /
   <strong>Nasjonal statusmelding:<br/>
   Forskning og utvikling for<br/>
   store, åpne språkmodeller i Norge</strong>
-</div>>
+</div>
 
 <div align="center" style="margin-bottom: 40px;">
   <a href="mailto:kontakt@språkmodellklynge.no"><tt>kontakt@språkmodellklynge.no</tt></a>
