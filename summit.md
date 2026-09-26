@@ -43,14 +43,14 @@ or feel free to contact the programme committee (see below) directly.
 |:---------:|:-------:|:------------------------------------------------------|
 |     10:00 |   10:30 | **Morning Coffee**                                    |
 |     10:30 |   10:40 | Welcome, Introductions                                |
-|     10:40 |   11:10 | Overview Presentation: Country A                      |
-|     11:10 |   11:40 | Overview Presentation: Country B                      |
-|     11:40 |   12:10 | Overview Presentation: Country C                      |
+|     10:40 |   11:10 | Country Presentation                                  |
+|     11:10 |   11:40 | Country Presentation                                  |
+|     11:40 |   12:10 | Country Presentation                                  |
 |     12:10 |   12:30 | Discussion                                            |
 |     12:30 |   13:30 | **Lunch (On-Site)**                                   |
-|     13:30 |   14:00 | Overview Presentation: Country D                      |
-|     14:00 |   14:30 | Overview Presentation: Country E                      |
-|     14:30 |   15:00 | Overview Presentation: Country F                      |
+|     13:30 |   14:00 | Country Presentation                                  |
+|     14:00 |   14:30 | Country Presentation                                  |
+|     14:30 |   15:00 | Country Presentation                                  |
 |     15:00 |   15:30 | **Coffee Break**                                      |
 |     15:30 |   16:30 | Discussion                                            |
 |     16:30 |   17:30 | Invited Keynote                                       |
