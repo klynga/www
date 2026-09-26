@@ -48,7 +48,7 @@ I juni 2026 lanserte Klynga sin
 [nasjonal statusmelding](https://språkmodellklynge.no/statusmelding.pdf), analyse av det
 norske LLM-landskapet i dag, samt seks
 [kunnskapspolitiske anbefalinger](https://språkmodellklynge.no).
-Under <a href="https://www.arendalsuka.no/program/sprakmodeller-og-digital-suverenitet-hva-er-norges-strategi" target="_blank"><img src="/images/arendal.png" alt="Arendalsuke, 13. august 2026" width="16px"/>&nbsp;Arendalsuka
+Under <a href="https://www.arendalsuka.no/program/sprakmodeller-og-digital-suverenitet-hva-er-norges-strategi" target="_blank"><img src="/images/arendal.png" alt="Arendalsuke, 13. august 2026" width="16px"/> Arendalsuka
 2026</a>
 <div align="center">
   <img src="/images/260813.png" alt="Klyngas presentasjon under Arendalsuke" width="100%">
