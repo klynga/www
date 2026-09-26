@@ -34,7 +34,7 @@ discussion both in the plenary (Monday) and in smaller, thematic break-out
 groups (Tuesday).
 To suggest topics for discussion and pre-register your interest in
 participation, please submit a short
-[on-line questionnaire](https://www.mn.uio.no/ifi/english/people/aca/oe/),
+[on-line questionnaire](https://nettskjema.no/a/650287),
 or feel free to contact the programme committee (see below) directly.
 
 **Monday, November 30**
