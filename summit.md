@@ -95,6 +95,18 @@ Please feel free to contact programme committee collectively at [llm-summit@ifi.
   <img src="/images/candles.png" alt="Winter in Norway" width="100%">
 </div>
 
+## Summit Logistics
+
+It should be possible to reach Oslo early Monday morning, for the 10:30 start
+of the summit, from many departure cities in the Nordic–Baltic region.
+In general, downtown Oslo offers a wide variety of accommodation options, and
+participants should make their own arrangements.
+
+The summit will be held at the
+[Gaustad campus](https://www.mn.uio.no/ifi/english/about/getting-around/) of
+the University of Oslo, which is at the _Forskningsparken_ (research park)
+stop on the metro and tram network.
+
 ## Confirmed Participants
 
 + Jussi Karlgren, Helsinki University & AMD Silo AI
