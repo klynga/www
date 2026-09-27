@@ -94,3 +94,9 @@ Please feel free to contact programme committee collectively at [llm-summit@ifi.
 <div align="center">
   <img src="/images/candles.png" alt="Winter in Norway" width="100%">
 </div>
+
+## Confirmed Participants
+
++ Jussi Karlgren, Helsinki University & AMD Silo AI
++ Stephan Oepen, University of Oslo
+  
