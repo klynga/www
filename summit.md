@@ -15,16 +15,16 @@ permalink: /summit/
 
 On November 30 & December 1, 2026, _Språkmodellklynge Norge_ (the Norwegian
 Language Modeling Cluster, or _Klynga_) welcomes LLM researchers and developers
-from the Nordic–Baltic region to Oslo, Norway.
+from the Nordic–Baltic region to Oslo.
 The meeting will be hosted at the University of Oslo, starting late Monday
 morning, November 30, and wrapping up with lunch the following day, Tuesday,
 December 1.
 The summit has a technical focus with time and intensity for hands-on knowledge
 exchange and joint planning of increased collaboration among Nordic–Baltic LLM
 practitioners.
-The meeting is open to all interested parties, but owing to capacity
-limitations pre-registration and a confirmation of participation will be
-required.
+The meeting is open to all interested parties.
+Owing to capacity limitations pre-registration and a confirmation of
+participation will be required.
 
 ## Planning & Pre-Registration
 
@@ -35,7 +35,7 @@ groups (Tuesday).
 To suggest topics for discussion and pre-register your interest in
 participation, please submit a short
 [on-line questionnaire](https://nettskjema.no/a/650287),
-or feel free to contact the programme committee (see below) directly.
+or feel free to contact the programme committee directly (see below).
 
 **Monday, November 30**
 
@@ -76,10 +76,10 @@ region.
 + [Meriem Beloucif](https://www.uu.se/en/contact-and-organisation/staff?query=N22-800), Uppsala University
 + [Yngvil Beyer](https://www.nb.no/ansatte/yngvil-beyer/), Norwegian National Library
 + [Kenneth Enevoldsen](https://kennethenevoldsen.com/), Aarhus University
-+ [Jussi Karlgren](https://www.lingvi.st/) (co-chair), AMD Silo AI and Helsinki University
++ [Jussi Karlgren](https://www.lingvi.st/) (chair), AMD Silo AI and Helsinki University
 + [Benjamin Kille](https://www.ntnu.edu/employees/benjamin.u.kille), Norwegian University of Science and Technology
 + [Marco Kuhlmannn](https://liu.se/en/employee/marku61), Linköping University
-+ [Stephan Oepen](https://www.mn.uio.no/ifi/english/people/aca/oe/) (co-chair), University of Oslo
++ [Stephan Oepen](https://www.mn.uio.no/ifi/english/people/aca/oe/) (chair), University of Oslo
 + [Barbara Scalvini](https://nors.ku.dk/english/staff/?pure=en/persons/946406), University of Copenhagen
 
 Please feel free to contact programme committee collectively at [llm-summit@ifi.uio.no](mailto:llm-summit@ifi.uio.no), or reach out directly to the summit co-chairs, Jussi Karlgren and Stephan Oepen.
