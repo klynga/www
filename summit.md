@@ -22,9 +22,15 @@ December 1.
 The summit has a technical focus with time and intensity for hands-on knowledge
 exchange and joint planning of increased collaboration among Nordic–Baltic LLM
 practitioners.
+
 The meeting is open to all interested parties.
 Owing to capacity limitations pre-registration and a confirmation of
 participation will be required.
+There is no participation fee; lunches and dinner are sponsored by
+[New Nordics AI](https://www.newnordics.ai).
+Participants cover their own cost of travel to Oslo (in difficult cases,
+please contact Jussi Karlgren to inquire about possibilties for travel
+stipends).
 
 ## Planning & Pre-Registration
 
@@ -73,10 +79,11 @@ The summit is jointly prepared by a programme committee with representatives
 from academia, memory institutions, and industry across the Nordic–Baltic
 region.
 
++ [Maria Barrett](https://mariabarrett.github.io)), AMD Silo AI
 + [Meriem Beloucif](https://www.uu.se/en/contact-and-organisation/staff?query=N22-800), Uppsala University
 + [Yngvil Beyer](https://www.nb.no/ansatte/yngvil-beyer/), Norwegian National Library
 + [Kenneth Enevoldsen](https://kennethenevoldsen.com/), Aarhus University
-+ [Jussi Karlgren](https://www.lingvi.st/) (chair), AMD Silo AI and Helsinki University
++ [Jussi Karlgren](https://www.lingvi.st/) (chair), Helsinki University & AMD Silo AI
 + [Benjamin Kille](https://www.ntnu.edu/employees/benjamin.u.kille), Norwegian University of Science and Technology
 + [Marco Kuhlmannn](https://liu.se/en/employee/marku61), Linköping University
 + [Stephan Oepen](https://www.mn.uio.no/ifi/english/people/aca/oe/) (chair), University of Oslo
