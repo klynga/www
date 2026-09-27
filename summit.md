@@ -6,7 +6,7 @@ permalink: /summit/
 
 <div align="center" class="page-heading">
   <strong>First Nordic–Baltic (Open) LLM Builders Summit</strong>
-</div>>
+</div>
 
 <div align="center">
   <img src="/images/ojd.jpg" alt="Ole-Johan Dahls hus" width="100%">
@@ -55,7 +55,7 @@ or feel free to contact the programme committee (see below) directly.
 |     15:30 |   16:30 | Discussion                                            |
 |     16:30 |   17:30 | Invited Keynote                                       |
 |     17:30 |   18:00 | Planning for Break-Out Sessions                       |
-|     19:30 |         | **Dinner (Downtown Oslo)                              |
+|     19:30 |         | **Dinner (Downtown)**                                 |
 
 **Tuesday, December 1**
 
