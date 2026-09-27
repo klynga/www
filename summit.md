@@ -91,7 +91,7 @@ region.
 
 Please feel free to contact programme committee collectively at [llm-summit@ifi.uio.no](mailto:llm-summit@ifi.uio.no), or reach out directly to the summit co-chairs, Jussi Karlgren and Stephan Oepen.
 
-<div align="center">
+<div align="center" style="margin-bottom: 3ex;">
   <img src="/images/candles.png" alt="Winter in Norway" width="100%">
 </div>
 
