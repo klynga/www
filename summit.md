@@ -26,8 +26,10 @@ practitioners.
 The meeting is open to all interested parties.
 Owing to capacity limitations pre-registration and a confirmation of
 participation will be required.
-There is no participation fee; lunches and dinner are sponsored by
-[New Nordics AI](https://www.newnordics.ai).
+There is no participation fee.
+The meeting is co-organized by _Klynga_ and
+[New Nordics AI](https://www.newnordics.ai), partially sponsored by the
+Nordic Council of Ministers through its Nordic Language Model Network.
 Participants cover their own cost of travel to Oslo (in difficult cases,
 please contact Jussi Karlgren to inquire about possibilties for travel
 stipends).
@@ -79,7 +81,7 @@ The summit is jointly prepared by a programme committee with representatives
 from academia, memory institutions, and industry across the Nordic–Baltic
 region.
 
-+ [Maria Barrett](https://mariabarrett.github.io)), AMD Silo AI
++ [Maria Barrett](https://mariabarrett.github.io), AMD Silo AI
 + [Meriem Beloucif](https://www.uu.se/en/contact-and-organisation/staff?query=N22-800), Uppsala University
 + [Yngvil Beyer](https://www.nb.no/ansatte/yngvil-beyer/), Norwegian National Library
 + [Kenneth Enevoldsen](https://kennethenevoldsen.com/), Aarhus University
@@ -92,7 +94,7 @@ region.
 Please feel free to contact programme committee collectively at [llm-summit@ifi.uio.no](mailto:llm-summit@ifi.uio.no), or reach out directly to the summit co-chairs, Jussi Karlgren and Stephan Oepen.
 
 <div align="center" style="margin-bottom: 3ex;">
-  <img src="/images/candles.png" alt="Winter in Norway" width="100%">
+  <img src="/images/oslo.png" alt="Winter in Oslo" width="100%">
 </div>
 
 ## Summit Logistics
