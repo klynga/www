@@ -84,6 +84,7 @@ region.
 + [Maria Barrett](https://mariabarrett.github.io), AMD Silo AI
 + [Meriem Beloucif](https://www.uu.se/en/contact-and-organisation/staff?query=N22-800), Uppsala University
 + [Yngvil Beyer](https://www.nb.no/ansatte/yngvil-beyer/), Norwegian National Library
++ [Hafsteinn Einarsson](https://english.hi.is/staff/hafsteinne), University of Iceland
 + [Kenneth Enevoldsen](https://kennethenevoldsen.com/), Aarhus University
 + [Jussi Karlgren](https://www.lingvi.st/) (chair), Helsinki University & AMD Silo AI
 + [Benjamin Kille](https://www.ntnu.edu/employees/benjamin.u.kille), Norwegian University of Science and Technology
