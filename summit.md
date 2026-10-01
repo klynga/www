@@ -113,5 +113,6 @@ stop on the metro and tram network.
 ## Confirmed Participants
 
 + Jussi Karlgren, Helsinki University & AMD Silo AI
++ Jonas Lind, AI Sweden
 + Stephan Oepen, University of Oslo
   
