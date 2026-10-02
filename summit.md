@@ -112,10 +112,18 @@ stop on the metro and tram network.
 
 ## Confirmed Participants
 
-+ Hafsteinn Einarsson, University of Iceland
-+ Mark Fishel, University of Tartu
-+ Jussi Karlgren, Helsinki University & AMD Silo AI
-+ Jonas Lind, AI Sweden
-+ Joakim Nivre, Uppsala University
-+ Stephan Oepen, University of Oslo
+1. Maria Barrett, AMD Silo AI
+1. Hafsteinn Einarsson, University of Iceland
+1. Kenneth Enevoldsen, Aarhus University
+1. Mark Fishel, University of Tartu
+1. Jussi Karlgren, Helsinki University & AMD Silo AI
+1. Marco Kuhlmann, Linköping University
+1. Andrey Kutuzov, University of Oslo
+1. Rasmus Larsen, Alexandra Institute
+1. Jonas Lind, AI Sweden
+1. Per Møldrup-Dalum, Aarhus University
+1. Joakim Nivre, Uppsala University
+1. Stephan Oepen, University of Oslo
+1. Klas Pettersen, SimulaMet
+
   
