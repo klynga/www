@@ -24,7 +24,7 @@ exchange and joint planning of increased collaboration among Nordic–Baltic LLM
 practitioners.
 
 The meeting is open to all interested parties.
-Owing to capacity limitations pre-registration and a confirmation of
+Owing to capacity limitations, pre-registration and a confirmation of
 participation will be required.
 There is no participation fee.
 The meeting is co-organized by _Klynga_ and
@@ -92,7 +92,7 @@ region.
 + [Stephan Oepen](https://www.mn.uio.no/ifi/english/people/aca/oe/) (chair), University of Oslo
 + [Barbara Scalvini](https://nors.ku.dk/english/staff/?pure=en/persons/946406), University of Copenhagen
 
-Please feel free to contact programme committee collectively at [llm-summit@ifi.uio.no](mailto:llm-summit@ifi.uio.no), or reach out directly to the summit co-chairs, Jussi Karlgren and Stephan Oepen.
+Please feel free to contact the programme committee collectively at [llm-summit@ifi.uio.no](mailto:llm-summit@ifi.uio.no), or reach out directly to the summit co-chairs, Jussi Karlgren and Stephan Oepen.
 
 <div align="center" style="margin-bottom: 3ex;">
   <img src="/images/oslo.png" alt="Winter in Oslo" width="100%">
