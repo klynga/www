@@ -113,6 +113,7 @@ stop on the metro and tram network.
 ## Confirmed Participants
 
 1. Maria Barrett, AMD Silo AI
+1. Meriem Beloucif, Uppsala University
 1. Hafsteinn Einarsson, University of Iceland
 1. Kenneth Enevoldsen, Aarhus University
 1. Mark Fishel, University of Tartu
@@ -125,6 +126,8 @@ stop on the metro and tram network.
 1. Per Møldrup-Dalum, Aarhus University
 1. Joakim Nivre, Uppsala University
 1. Stephan Oepen, University of Oslo
+1. Lilja Øvrelid, University of Oslo
 1. Klas Pettersen, SimulaMet
+1. Jörg Tiedemann, University of Helsinki
 
   
