@@ -121,6 +121,7 @@ stop on the metro and tram network.
 1. Fredrik Heintz, Linköping University
 1. Jussi Karlgren, Helsinki University & AMD Silo AI
 1. Marco Kuhlmann, Linköping University
+1. Martins Kronis, Tilde
 1. Andrey Kutuzov, University of Oslo
 1. Rasmus Larsen, Alexandra Institute
 1. Jonas Lind, AI Sweden
