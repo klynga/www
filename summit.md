@@ -132,5 +132,6 @@ stop on the metro and tram network.
 1. Klas Pettersen, SimulaMet
 1. Faton Rekathati, National Library of Sweden
 1. Jörg Tiedemann, University of Helsinki
+1. Elaine Zosa, AMD Silo AI
 
   
