@@ -125,6 +125,7 @@ stop on the metro and tram network.
 1. Andrey Kutuzov, University of Oslo
 1. Rasmus Larsen, Alexandra Institute
 1. Jonas Lind, AI Sweden
+1. Risto Luukkonen, AMD Silo AI
 1. Per Møldrup-Dalum, Aarhus University
 1. Joakim Nivre, Uppsala University
 1. Stephan Oepen, University of Oslo
@@ -132,6 +133,7 @@ stop on the metro and tram network.
 1. Danila Petrelli, AI Sweden
 1. Klas Pettersen, SimulaMet
 1. Faton Rekathati, National Library of Sweden
+1. Sara Stymne, Uppsala University
 1. Jörg Tiedemann, University of Helsinki
 1. Elaine Zosa, AMD Silo AI
 
