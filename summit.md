@@ -119,6 +119,7 @@ stop on the metro and tram network.
 1. Kenneth Enevoldsen, Aarhus University
 1. Mark Fishel, University of Tartu
 1. Fredrik Heintz, Linköping University
+1. Matias Jentoft, Language Council of Norway
 1. Jussi Karlgren, Helsinki University & AMD Silo AI
 1. Marco Kuhlmann, Linköping University
 1. Martins Kronis, Tilde
