@@ -114,6 +114,7 @@ stop on the metro and tram network.
 
 1. Maria Barrett, AMD Silo AI
 1. Meriem Beloucif, Uppsala University
+1. Aleksei Dorkin, University of Tartu
 1. Kristine Eide, Language Council of Norway
 1. Hafsteinn Einarsson, University of Iceland
 1. Kenneth Enevoldsen, Aarhus University
