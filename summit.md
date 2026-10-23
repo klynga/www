@@ -75,6 +75,27 @@ or feel free to contact the programme committee directly (see below).
 |     11:30 |   12:30 | Plenary Summaries; Looking Ahead                      |
 |     12:30 |   13:30 | **Lunch (On-Site)**                                   |
 
+## Breakout Session
+
+On Tuesday, the second day of the summit, participants will break out into
+smaller, thematic sub-groups.
+Each group will be assigned a convener from the programme committee, who will
+share a set of questions for discussion beforehand.
+The breakout session will provide close to two hours for more in-depth
+technical discussion.
+Before lunch, all groups return for a final plenary session, with short
+summaries from each breakout group and time to discuss and plan follow-u
+activity.
+
+A preliminary list of breakout discussion topics has been distilled from
+the inputs by prospective participants (via the pre-registration form;
+please see above):
+
++ Pan–Nordic-Baltic (Continual) Pre-Training
++ Data and Techniques for Nordic–Baltic Post-Training
++ Evaluation Methodology and Benchmark Creation
++ Legal & Practical Considerations in Data Sharing
+  
 ## Programme Committee
 
 The summit is jointly prepared by a programme committee with representatives
