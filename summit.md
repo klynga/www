@@ -126,6 +126,7 @@ stop on the metro and tram network.
 1. Benjamin Kille, Norwegian University of Science and Technology
 1. Marco Kuhlmann, Linköping University
 1. Jenny Kunz, Linköping University
+1. Andrey Kutuzov, University of Oslo
 1. Martins Kronis, Tilde
 1. Andrey Kutuzov, University of Oslo
 1. Rasmus Larsen, Alexandra Institute
@@ -138,6 +139,7 @@ stop on the metro and tram network.
 1. Danila Petrelli, AI Sweden
 1. Klas Pettersen, SimulaMet
 1. Faton Rekathati, National Library of Sweden
+1. Barbara Scalvini, Copenhagen University
 1. Yves Scherrer, University of Oslo
 1. Sara Stymne, Uppsala University
 1. Jörg Tiedemann, University of Helsinki
