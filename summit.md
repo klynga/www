@@ -75,7 +75,7 @@ or feel free to contact the programme committee directly (see below).
 |     11:30 |   12:30 | Plenary Summaries; Looking Ahead                      |
 |     12:30 |   13:30 | **Lunch (On-Site)**                                   |
 
-## Breakout Session
+## Breakout Sessions
 
 On Tuesday, the second day of the summit, participants will break out into
 smaller, thematic sub-groups.
