@@ -136,6 +136,7 @@ stop on the metro and tram network.
 1. Maria Barrett, AMD Silo AI
 1. Meriem Beloucif, Uppsala University
 1. Yngvil Beyer, National Library of Norway
+1. Jonathan Burdge, AMD Silo AI
 1. Aleksei Dorkin, University of Tartu
 1. Kristine Eide, Language Council of Norway
 1. Hafsteinn Einarsson, University of Iceland
@@ -164,6 +165,7 @@ stop on the metro and tram network.
 1. Yves Scherrer, University of Oslo
 1. Sara Stymne, Uppsala University
 1. Jörg Tiedemann, University of Helsinki
+1. Erik Velldal, University of Oslo
 1. Elaine Zosa, AMD Silo AI
 
   
