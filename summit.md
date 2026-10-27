@@ -134,6 +134,7 @@ stop on the metro and tram network.
 ## Confirmed Participants
 
 1. Maria Barrett, AMD Silo AI
+1. Guntis Barzdins, University of Latvia
 1. Meriem Beloucif, Uppsala University
 1. Yngvil Beyer, National Library of Norway
 1. Jonathan Burdge, AMD Silo AI
@@ -154,6 +155,7 @@ stop on the metro and tram network.
 1. Rasmus Larsen, Alexandra Institute
 1. Jonas Lind, AI Sweden
 1. Risto Luukkonen, AMD Silo AI
+1. Sjur Moshagen, UiT The Arctic University of Norwayu
 1. Per Møldrup-Dalum, Aarhus University
 1. Joakim Nivre, Uppsala University
 1. Stephan Oepen, University of Oslo
@@ -166,6 +168,7 @@ stop on the metro and tram network.
 1. Sara Stymne, Uppsala University
 1. Jörg Tiedemann, University of Helsinki
 1. Erik Velldal, University of Oslo
+1. Arturs Znotins, University of Latvia
 1. Elaine Zosa, AMD Silo AI
 
   
