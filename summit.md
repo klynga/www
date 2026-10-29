@@ -63,7 +63,7 @@ or feel free to contact the programme committee directly (see below).
 |     15:30 |   16:30 | Discussion                                            |
 |     16:30 |   17:30 | Invited Keynote                                       |
 |     17:30 |   18:00 | Planning for Break-Out Sessions                       |
-|     19:30 |         | **Dinner (Downtown)**                                 |
+|     19:30 |         | **[Dinner at the National Lirary](https://www.nb.no/en/)**                                 |
 
 **Tuesday, December 1**
 
