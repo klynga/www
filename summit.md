@@ -133,15 +133,18 @@ stop on the metro and tram network.
 
 ## Confirmed Participants
 
+1. Tanel Alumäe, Tallinn University of Technology
 1. Maria Barrett, AMD Silo AI
 1. Guntis Barzdins, University of Latvia
 1. Meriem Beloucif, Uppsala University
 1. Yngvil Beyer, National Library of Norway
+1. Torben Blach, Alexandra Institute
 1. Jonathan Burdge, AMD Silo AI
 1. Aleksei Dorkin, University of Tartu
 1. Kristine Eide, Language Council of Norway
 1. Hafsteinn Einarsson, University of Iceland
 1. Kenneth Enevoldsen, Aarhus University
+1. Tita Enstad, National Library of Norway
 1. Mark Fishel, University of Tartu
 1. Fredrik Heintz, Linköping University
 1. Matias Jentoft, Language Council of Norway
@@ -163,6 +166,7 @@ stop on the metro and tram network.
 1. Danila Petrelli, AI Sweden
 1. Klas Pettersen, SimulaMet
 1. Faton Rekathati, National Library of Sweden
+1. Jonathan Salisbury, National Library of Sweden
 1. Barbara Scalvini, Copenhagen University
 1. Yves Scherrer, University of Oslo
 1. Sara Stymne, Uppsala University
