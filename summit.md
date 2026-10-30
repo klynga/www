@@ -165,6 +165,7 @@ stop on the metro and tram network.
 1. Lilja Øvrelid, University of Oslo
 1. Danila Petrelli, AI Sweden
 1. Klas Pettersen, SimulaMet
+1. Sampo Pyysalo, University of Turku
 1. Faton Rekathati, National Library of Sweden
 1. Jonathan Salisbury, National Library of Sweden
 1. Barbara Scalvini, Copenhagen University
