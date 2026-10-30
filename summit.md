@@ -168,6 +168,7 @@ stop on the metro and tram network.
 1. Sampo Pyysalo, University of Turku
 1. Faton Rekathati, National Library of Sweden
 1. Jonathan Salisbury, National Library of Sweden
+1. David Samuel, University of Oslo
 1. Barbara Scalvini, Copenhagen University
 1. Yves Scherrer, University of Oslo
 1. Sara Stymne, Uppsala University
