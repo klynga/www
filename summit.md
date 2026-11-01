@@ -174,6 +174,7 @@ stop on the metro and tram network.
 1. Sara Stymne, Uppsala University
 1. Jörg Tiedemann, University of Helsinki
 1. Erik Velldal, University of Oslo
+2. Mike Zhang, University of Copenhagen
 1. Arturs Znotins, University of Latvia
 1. Elaine Zosa, AMD Silo AI
 
