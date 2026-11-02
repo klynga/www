@@ -171,6 +171,7 @@ stop on the metro and tram network.
 1. David Samuel, University of Oslo
 1. Barbara Scalvini, Copenhagen University
 1. Yves Scherrer, University of Oslo
+1. Peter Schneider-Kamp, University of Southern Denmark
 1. Sara Stymne, Uppsala University
 1. Jörg Tiedemann, University of Helsinki
 1. Erik Velldal, University of Oslo
