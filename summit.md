@@ -150,6 +150,7 @@ stop on the metro and tram network.
 1. Matias Jentoft, Language Council of Norway
 1. Jussi Karlgren, Helsinki University & AMD Silo AI
 1. Benjamin Kille, Norwegian University of Science and Technology
+1. Taras Kucherenko, National Library of Sweden
 1. Marco Kuhlmann, Linköping University
 1. Jenny Kunz, Linköping University
 1. Andrey Kutuzov, University of Oslo
@@ -162,6 +163,7 @@ stop on the metro and tram network.
 1. Per Møldrup-Dalum, Aarhus University
 1. Joakim Nivre, Uppsala University
 1. Stephan Oepen, University of Oslo
+1. Wilfred Østgulen, National Library of Norway
 1. Lilja Øvrelid, University of Oslo
 1. Danila Petrelli, AI Sweden
 1. Klas Pettersen, SimulaMet
