@@ -51,17 +51,18 @@ or feel free to contact the programme committee directly (see below).
 |:---------:|:-------:|:------------------------------------------------------|
 |     10:00 |   10:30 | **Morning Coffee**                                    |
 |     10:30 |   10:40 | Welcome, Introductions                                |
-|     10:40 |   11:10 | Country or Language Presentation                      |
-|     11:10 |   11:40 | Country or Language Presentation                      |
-|     11:40 |   12:10 | Country or Language Presentation                      |
+|     10:40 |   11:10 | Country Presentation: Denmark                         |
+|     11:10 |   11:40 | Country Presentations: Estonia & Latvia               |
+|     11:40 |   12:10 | Country Presentation: Finland                         |
 |     12:10 |   12:30 | Discussion                                            |
 |     12:30 |   13:30 | **Lunch (On-Site)**                                   |
-|     13:30 |   14:00 | Country or Language Presentation                      |
-|     14:00 |   14:30 | Country or Language Presentation                      |
-|     14:30 |   15:00 | Country or Language Presentation                      |
+|     13:30 |   14:00 | Country Presentation: Iceland & Faroe Islands         |
+|     14:00 |   14:30 | Country Presentation: Norway                          |
+|     14:30 |   15:00 | Language Presentations: Sámi                          |
 |     15:00 |   15:30 | **Coffee Break**                                      |
 |     15:30 |   16:30 | Discussion                                            |
-|     16:30 |   17:30 | Invited Keynote                                       |
+|     16:30 |   17:00 | Country Presentation: Sweden                          |
+|     17:00 |   17:30 | Company Presentations:                                |
 |     17:30 |   18:00 | Planning for Break-Out Sessions                       |
 |     19:30 |         | **[Dinner at the National Lirary](https://www.nb.no/en/)**                                 |
 
