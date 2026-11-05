@@ -92,9 +92,9 @@ A preliminary list of breakout discussion topics has been distilled from
 the inputs by prospective participants (via the pre-registration form;
 please see above):
 
-+ Pan–Nordic-Baltic (Continual) Pre-Training
-+ Data and Techniques for Nordic–Baltic Post-Training
-+ Evaluation Methodology and Benchmark Creation
++ Pan–Nordic-Baltic (Continual) Pre-Training (Convener: Stephan Oepen)
++ Data and Techniques for Nordic–Baltic Post-Training (Convener: Jussi Karlgren)
++ Evaluation Methodology and Benchmark Creation (Convener: Maria Barrett)
 + Legal & Practical Considerations in Data Sharing
   
 ## Programme Committee
