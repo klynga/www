@@ -16,12 +16,16 @@ permalink: /summit/
 On November 30 & December 1, 2026, _Språkmodellklynge Norge_ (the Norwegian
 Language Modeling Cluster, or _Klynga_) welcomes LLM researchers and developers
 from the Nordic–Baltic region to Oslo.
-The meeting will be hosted at the University of Oslo, starting late Monday
-morning, November 30, and wrapping up with lunch the following day, Tuesday,
-December 1.
+The meeting will be hosted at the
+[University of Oslo](https://www.mn.uio.no/ifi/english/about/getting-around/),
+starting late Monday morning, November 30, and wrapping up with lunch the following
+day, Tuesday, December 1.
 The summit has a technical focus with time and intensity for hands-on knowledge
 exchange and joint planning of increased collaboration among Nordic–Baltic LLM
 practitioners.
+Participants will enjoy a joint dinner at the
+[National Lirary of Norway](https://www.nb.no/en/).
+
 
 The meeting is open to all interested parties.
 Owing to capacity limitations, pre-registration and a confirmation of
@@ -36,14 +40,14 @@ stipends).
 
 ## Planning & Pre-Registration
 
-The summit programme seeks to balance information exchange across country
+The summit schedule seeks to balance information exchange across country
 borders, time for questions & answers, and in particular ample space for
 discussion both in the plenary (Monday) and in smaller, thematic break-out
 groups (Tuesday).
-To suggest topics for discussion and pre-register your interest in
-participation, please submit a short
-[on-line questionnaire](https://nettskjema.no/a/650287),
-or feel free to contact the programme committee directly (see below).
+The programme reflects input submitted from prospective participants, who
+were invited to suggest thematic priorities and topics for discussion.
+Registration is now closed, but please feel free to contact the programme
+committee directly (see below) for specific inquiries.
 
 **Monday, November 30**
 
