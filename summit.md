@@ -20,6 +20,7 @@ The meeting will be hosted at the
 [University of Oslo](https://www.mn.uio.no/ifi/english/about/getting-around/),
 starting late Monday morning, November 30, and wrapping up with lunch the following
 day, Tuesday, December 1.
+
 The summit has a technical focus with time and intensity for hands-on knowledge
 exchange and joint planning of increased collaboration among Nordic–Baltic LLM
 practitioners.
