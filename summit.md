@@ -100,7 +100,7 @@ please see above):
 + Pan–Nordic-Baltic (Continual) Pre-Training (Convener: Stephan Oepen)
 + Data and Techniques for Nordic–Baltic Post-Training (Convener: Jussi Karlgren)
 + Evaluation Methodology and Benchmark Creation (Convener: Maria Barrett)
-+ Legal & Practical Considerations in Data Sharing
++ Legal & Practical Considerations in Data Sharing (Convener: Yngvil Beyer)
   
 ## Programme Committee
 
