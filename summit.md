@@ -76,7 +76,7 @@ committee directly (see below) for specific inquiries.
 | **Start** | **End** | **Topic**                                             |
 |:---------:|:-------:|:------------------------------------------------------|
 |     09:00 |   09:15 | Goals for the Day                                     |
-|     09:15 |   11:00 | 3–5 Parallel Breakout Sessions                        |
+|     09:15 |   11:00 | Parallel Breakout Sessions (See Below)                |
 |     11:00 |   11:30 | **Coffee Break**                                      |
 |     11:30 |   12:30 | Plenary Summaries; Looking Ahead                      |
 |     12:30 |   13:30 | **Lunch (On-Site)**                                   |
