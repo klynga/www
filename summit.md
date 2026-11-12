@@ -67,9 +67,9 @@ committee directly (see below) for specific inquiries.
 |     15:00 |   15:30 | **Coffee Break**                                      |
 |     15:30 |   16:30 | Discussion                                            |
 |     16:30 |   17:00 | Country Presentation: Sweden                          |
-|     17:00 |   17:30 | Company Presentations:                                |
+|     17:00 |   17:30 | Company Presentations: AMD Silo AI & Tilde            |
 |     17:30 |   18:00 | Planning for Break-Out Sessions                       |
-|     19:30 |         | **[Dinner at the National Lirary](https://www.nb.no/en/)**                                 |
+|     19:30 |         | **[Dinner at the National Lirary](https://www.nb.no/en/)** |
 
 **Tuesday, December 1**
 
