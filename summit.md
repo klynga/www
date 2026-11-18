@@ -62,7 +62,7 @@ committee directly (see below) for specific inquiries.
 |     12:10 |   12:30 | Discussion                                            |
 |     12:30 |   13:30 | **Lunch (On-Site)**                                   |
 |     13:30 |   14:00 | Country Presentation: Iceland & Faroe Islands         |
-|     14:00 |   14:30 | Country Presentation: Norway (Stephan Oepen)          |
+|     14:00 |   14:30 | Country Presentation: Norway                          |
 |     14:30 |   15:00 | Language Presentations: Sámi                          |
 |     15:00 |   15:30 | **Coffee Break**                                      |
 |     15:30 |   16:30 | Discussion                                            |
