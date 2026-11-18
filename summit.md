@@ -39,7 +39,7 @@ Participants cover their own cost of travel to Oslo (in difficult cases,
 please contact Jussi Karlgren to inquire about possibilties for travel
 stipends).
 
-## Planning & Pre-Registration
+## <a id="schedule">Planning & Pre-Registration</a>
 
 The summit schedule seeks to balance information exchange across country
 borders, time for questions & answers, and in particular ample space for
@@ -81,7 +81,7 @@ committee directly (see below) for specific inquiries.
 |     11:30 |   12:30 | Plenary Summaries; Looking Ahead                      |
 |     12:30 |   13:30 | **Lunch (On-Site)**                                   |
 
-## Breakout Sessions
+## <a id="breakout">Breakout Sessions</a>
 
 On Tuesday, the second day of the summit, participants will break out into
 smaller, thematic sub-groups.
@@ -102,7 +102,7 @@ please see above):
 + Evaluation Methodology and Benchmark Creation (Convener: Maria Barrett)
 + Practical & Legal Considerations in Data Sharing (Convener: Yngvil Beyer)
 
-## Background “One-Pagers”
+## <a id="background">Background “One-Pagers”</a>
 
 To prepare for the summit and the individual per-country or per-language
 sessions, we invite each contributor group to compile a high-level summary
