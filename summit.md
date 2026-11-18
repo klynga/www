@@ -117,7 +117,6 @@ available a
 Please use these for inspiration, but there is no expectation that the
 per-country or per-language summary documents follow this exact structure 
 or aim to address all of the questions.
-
 Please email “one-pagers” in PDF format to the programme committee at
 [llm-summit@ifi.uio.no](mailto:llm-summit@ifi.uio.no) no later than
 **Thursday, November 26**.
