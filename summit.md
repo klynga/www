@@ -62,7 +62,7 @@ committee directly (see below) for specific inquiries.
 |     12:10 |   12:30 | Discussion                                            |
 |     12:30 |   13:30 | **Lunch (On-Site)**                                   |
 |     13:30 |   14:00 | Country Presentation: Iceland & Faroe Islands         |
-|     14:00 |   14:30 | Country Presentation: Norway                          |
+|     14:00 |   14:30 | Country Presentation: Norway (Stephan Oepen)          |
 |     14:30 |   15:00 | Language Presentations: Sámi                          |
 |     15:00 |   15:30 | **Coffee Break**                                      |
 |     15:30 |   16:30 | Discussion                                            |
@@ -101,7 +101,27 @@ please see above):
 + Data and Techniques for Nordic–Baltic Post-Training (Convener: Jussi Karlgren)
 + Evaluation Methodology and Benchmark Creation (Convener: Maria Barrett)
 + Practical & Legal Considerations in Data Sharing (Convener: Yngvil Beyer)
-  
+
+## Background “One-Pagers”
+
+To prepare for the summit and the individual per-country or per-language
+sessions, we invite each contributor group to compile a high-level summary
+of R&D stakeholders and activities.
+These per-country or per-language “one-pagers” will be shared with all
+participants before the meeting, so as to avoid using much of the available
+presentation time on enumerating individual sites and projects, for example.
+
+To guide the compilation of this information, the programme committee makes
+available a
+[set of questions](https://github.com/klynga/summit/blob/main/26/questions.pdf).
+Please use these for inspiration, but there is no expectation that the
+per-country or per-language summary documents follow this exact structure 
+or aim to address all of the questions.
+
+Please email “one-pagers” in PDF format to the programme committee at
+[llm-summit@ifi.uio.no](mailto:llm-summit@ifi.uio.no) no later than
+**Thursday, November 26**.
+
 ## Programme Committee
 
 The summit is jointly prepared by a programme committee with representatives
