@@ -121,7 +121,7 @@ Please email “one-pagers” in PDF format to the programme committee at
 [llm-summit@ifi.uio.no](mailto:llm-summit@ifi.uio.no) no later than
 **Thursday, November 26**.
 
-## Programme Committee
+## <a id="committee">Programme Committee</a>
 
 The summit is jointly prepared by a programme committee with representatives
 from academia, memory institutions, and industry across the Nordic–Baltic
@@ -144,7 +144,7 @@ Please feel free to contact the programme committee collectively at [llm-summit@
   <img src="/images/oslo.png" alt="Winter in Oslo" width="100%">
 </div>
 
-## Summit Logistics
+## <a id="logistics">Summit Logistics</a>
 
 It should be possible to reach Oslo early Monday morning, for the 10:30 start
 of the summit, from many departure cities in the Nordic–Baltic region.
@@ -156,7 +156,7 @@ The summit will be held at the
 the University of Oslo, which is at the _Forskningsparken_ (research park)
 stop on the metro and tram network.
 
-## Confirmed Participants
+## <a id="participants">Confirmed Participants</a>
 
 1. Eleri Aedmaa, Institute of the Estonian Language
 1. Tanel Alumäe, Tallinn University of Technology
