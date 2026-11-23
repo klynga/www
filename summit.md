@@ -26,7 +26,9 @@ exchange and joint planning of increased collaboration among Nordic–Baltic LLM
 practitioners.
 Participants will enjoy a joint dinner at the
 [National Lirary of Norway](https://www.nb.no/en/).
-
+Please confirm participation in the dinner (and maybe personal food constraints)
+via a short [on-line form](https://nettskjema.no/a/677882) no later than
+**Wednesday, November 25, 10:00 CET**.
 
 The meeting is open to all interested parties.
 Owing to capacity limitations, pre-registration and a confirmation of
