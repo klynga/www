@@ -181,7 +181,6 @@ stop on the metro and tram network.
 1. Victoria Handford, National Library of Norway
 1. Fredrik Heintz, Linköping University
 1. Hege Stensrud Høsøien, National Library of Norway
-1. Matias Jentoft, Language Council of Norway
 1. Uni Johannesen, University of the Faroe Islands
 1. Jussi Karlgren, Helsinki University & AMD Silo AI
 1. Benjamin Kille, Norwegian University of Science and Technology
