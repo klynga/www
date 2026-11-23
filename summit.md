@@ -179,6 +179,7 @@ stop on the metro and tram network.
 1. Kenneth Enevoldsen, Aarhus University
 1. Tita Enstad, National Library of Norway
 1. Mark Fishel, University of Tartu
+1. Børre Gaup, UiT The Arctic University of Norwayu
 1. Victoria Handford, National Library of Norway
 1. Fredrik Heintz, Linköping University
 1. Hege Stensrud Høsøien, National Library of Norway
@@ -194,7 +195,7 @@ stop on the metro and tram network.
 1. Jonas Lind, AI Sweden
 1. Risto Luukkonen, AMD Silo AI
 1. Marthe Midtgaard, National Library of Norway
-1. Sjur Moshagen, UiT The Arctic University of Norwayu
+1. Sjur Moshagen, UiT The Arctic University of Norway
 1. Per Møldrup-Dalum, Aarhus University
 1. Joakim Nivre, Uppsala University
 1. Stephan Oepen, University of Oslo
