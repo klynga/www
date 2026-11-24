@@ -136,7 +136,7 @@ region.
 + [Kenneth Enevoldsen](https://kennethenevoldsen.com/), Aarhus University
 + [Jussi Karlgren](https://www.lingvi.st/) (chair), Helsinki University & AMD Silo AI
 + [Benjamin Kille](https://www.ntnu.edu/employees/benjamin.u.kille), Norwegian University of Science and Technology
-+ [Marco Kuhlmannn](https://liu.se/en/employee/marku61), Linköping University
++ [Marco Kuhlmann](https://liu.se/en/employee/marku61), Linköping University
 + [Stephan Oepen](https://www.mn.uio.no/ifi/english/people/aca/oe/) (chair), University of Oslo
 + [Barbara Scalvini](https://nors.ku.dk/english/staff/?pure=en/persons/946406), University of Copenhagen
 
@@ -179,7 +179,7 @@ stop on the metro and tram network.
 1. Kenneth Enevoldsen, Aarhus University
 1. Tita Enstad, National Library of Norway
 1. Mark Fishel, University of Tartu
-1. Børre Gaup, UiT The Arctic University of Norwayu
+1. Børre Gaup, UiT The Arctic University of Norway
 1. Victoria Handford, National Library of Norway
 1. Fredrik Heintz, Linköping University
 1. Hege Stensrud Høsøien, National Library of Norway
@@ -218,7 +218,7 @@ stop on the metro and tram network.
 1. Jörg Tiedemann, University of Helsinki
 1. Kadri Vare, Institute of the Estonian Language
 1. Erik Velldal, University of Oslo
-2. Mike Zhang, University of Copenhagen
+1. Mike Zhang, University of Copenhagen
 1. Arturs Znotins, University of Latvia
 1. Elaine Zosa, AMD Silo AI
 
