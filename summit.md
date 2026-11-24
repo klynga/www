@@ -205,8 +205,10 @@ stop on the metro and tram network.
 1. Danila Petrelli, AI Sweden
 1. Klas Pettersen, SimulaMet
 1. Sampo Pyysalo, University of Turku
+1. Sierge Rasmus, Sámi Language Council
 1. Faton Rekathati, National Library of Sweden
 1. Javier de la Rosa, National Library of Norway
+1. Mika Saijets, Sámi Language Council
 1. Jonathan Salisbury, National Library of Sweden
 1. David Samuel, University of Oslo
 1. Barbara Scalvini, Copenhagen University
