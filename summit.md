@@ -169,6 +169,7 @@ stop on the metro and tram network.
 1. Yngvil Beyer, National Library of Norway
 1. Magnus Breder Birkenes, National Library of Norway
 1. Torben Blach, Alexandra Institute
+1. Lars Ailo Bongo, UiT The Arctic University of Norway & Sámi University of Applied Sciences
 1. Andreas Bueff, Linköping University
 1. Jonathan Burdge, AMD Silo AI
 1. Lucas Charpentier, National Library of Norway
