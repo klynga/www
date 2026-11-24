@@ -16,15 +16,22 @@ permalink: /summit/
 On November 30 & December 1, 2026, _Språkmodellklynge Norge_ (the Norwegian
 Language Modeling Cluster, or _Klynga_) welcomes LLM researchers and developers
 from the Nordic–Baltic region to Oslo.
-The meeting will be hosted at the University of Oslo, starting late Monday
-morning, November 30, and wrapping up with lunch the following day, Tuesday,
-December 1.
+The meeting will be hosted at the
+[University of Oslo](https://www.mn.uio.no/ifi/english/about/getting-around/),
+starting late Monday morning, November 30, and wrapping up with lunch the following
+day, Tuesday, December 1.
+
 The summit has a technical focus with time and intensity for hands-on knowledge
 exchange and joint planning of increased collaboration among Nordic–Baltic LLM
 practitioners.
+Participants will enjoy a joint dinner at the
+[National Lirary of Norway](https://www.nb.no/en/).
+Please confirm participation in the dinner (and maybe personal food constraints)
+via a short [on-line form](https://nettskjema.no/a/677882) no later than
+**Wednesday, November 25, 10:00 CET**.
 
 The meeting is open to all interested parties.
-Owing to capacity limitations pre-registration and a confirmation of
+Owing to capacity limitations, pre-registration and a confirmation of
 participation will be required.
 There is no participation fee.
 The meeting is co-organized by _Klynga_ and
@@ -34,16 +41,16 @@ Participants cover their own cost of travel to Oslo (in difficult cases,
 please contact Jussi Karlgren to inquire about possibilties for travel
 stipends).
 
-## Planning & Pre-Registration
+## <a id="schedule">Planning & Pre-Registration</a>
 
-The summit programme seeks to balance information exchange across country
+The summit schedule seeks to balance information exchange across country
 borders, time for questions & answers, and in particular ample space for
 discussion both in the plenary (Monday) and in smaller, thematic break-out
 groups (Tuesday).
-To suggest topics for discussion and pre-register your interest in
-participation, please submit a short
-[on-line questionnaire](https://nettskjema.no/a/650287),
-or feel free to contact the programme committee directly (see below).
+The programme reflects input submitted from prospective participants, who
+were invited to suggest thematic priorities and topics for discussion.
+Registration is now closed, but please feel free to contact the programme
+committee directly (see below) for specific inquiries.
 
 **Monday, November 30**
 
@@ -51,31 +58,72 @@ or feel free to contact the programme committee directly (see below).
 |:---------:|:-------:|:------------------------------------------------------|
 |     10:00 |   10:30 | **Morning Coffee**                                    |
 |     10:30 |   10:40 | Welcome, Introductions                                |
-|     10:40 |   11:10 | Country or Language Presentation                      |
-|     11:10 |   11:40 | Country or Language Presentation                      |
-|     11:40 |   12:10 | Country or Language Presentation                      |
+|     10:40 |   11:10 | Country Presentation: Denmark                         |
+|     11:10 |   11:40 | Country Presentations: Estonia & Latvia               |
+|     11:40 |   12:10 | Country Presentation: Finland                         |
 |     12:10 |   12:30 | Discussion                                            |
 |     12:30 |   13:30 | **Lunch (On-Site)**                                   |
-|     13:30 |   14:00 | Country or Language Presentation                      |
-|     14:00 |   14:30 | Country or Language Presentation                      |
-|     14:30 |   15:00 | Country or Language Presentation                      |
+|     13:30 |   14:00 | Country Presentation: Iceland & Faroe Islands         |
+|     14:00 |   14:30 | Country Presentation: Norway (Yngvil Beyer, Stephan Oepen) |
+|     14:30 |   15:00 | Language Presentations: Sámi                          |
 |     15:00 |   15:30 | **Coffee Break**                                      |
 |     15:30 |   16:30 | Discussion                                            |
-|     16:30 |   17:30 | Invited Keynote                                       |
+|     16:30 |   17:00 | Country Presentation: Sweden (Marco Kuhlmann)         |
+|     17:00 |   17:30 | Company Presentations: AMD Silo AI & Tilde            |
 |     17:30 |   18:00 | Planning for Break-Out Sessions                       |
-|     19:30 |         | **Dinner (Downtown)**                                 |
+|     19:30 |         | **[Dinner at the National Lirary](https://www.nb.no/en/)** |
 
 **Tuesday, December 1**
 
 | **Start** | **End** | **Topic**                                             |
 |:---------:|:-------:|:------------------------------------------------------|
 |     09:00 |   09:15 | Goals for the Day                                     |
-|     09:15 |   11:00 | 3–5 Parallel Breakout Sessions                        |
+|     09:15 |   11:00 | Parallel Breakout Sessions (See Below)                |
 |     11:00 |   11:30 | **Coffee Break**                                      |
 |     11:30 |   12:30 | Plenary Summaries; Looking Ahead                      |
 |     12:30 |   13:30 | **Lunch (On-Site)**                                   |
 
-## Programme Committee
+## <a id="breakout">Breakout Sessions</a>
+
+On Tuesday, the second day of the summit, participants will break out into
+smaller, thematic sub-groups.
+Each group will be assigned a convener from the programme committee, who will
+share a set of questions for discussion beforehand.
+The breakout session will provide close to two hours for more in-depth
+technical discussion.
+Before lunch, all groups return for a final plenary session, with short
+summaries from each breakout group and time to discuss and plan follow-u
+activity.
+
+A preliminary list of breakout discussion topics has been distilled from
+the inputs by prospective participants (via the pre-registration form;
+please see above):
+
++ Pan–Nordic-Baltic (Continual) Pre-Training (Convener: Stephan Oepen)
++ Data and Techniques for Nordic–Baltic Post-Training (Convener: Jussi Karlgren)
++ Evaluation Methodology and Benchmark Creation (Convener: Maria Barrett)
++ Practical & Legal Considerations in Data Sharing (Convener: Yngvil Beyer)
+
+## <a id="background">Background “One-Pagers”</a>
+
+To prepare for the summit and the individual per-country or per-language
+sessions, we invite each contributor group to compile a high-level summary
+of R&D stakeholders and activities.
+These per-country or per-language “one-pagers” will be shared with all
+participants before the meeting, so as to avoid using much of the available
+presentation time on enumerating individual sites and projects, for example.
+
+To guide the compilation of this information, the programme committee makes
+available a
+[set of questions](https://github.com/klynga/summit/blob/main/26/questions.pdf).
+Please use these for inspiration, but there is no expectation that the
+per-country or per-language summary documents follow this exact structure 
+or aim to address all of the questions.
+Please email “one-pagers” in PDF format to the programme committee at
+[llm-summit@ifi.uio.no](mailto:llm-summit@ifi.uio.no) no later than
+**Thursday, November 26**.
+
+## <a id="committee">Programme Committee</a>
 
 The summit is jointly prepared by a programme committee with representatives
 from academia, memory institutions, and industry across the Nordic–Baltic
@@ -84,6 +132,7 @@ region.
 + [Maria Barrett](https://mariabarrett.github.io), AMD Silo AI
 + [Meriem Beloucif](https://www.uu.se/en/contact-and-organisation/staff?query=N22-800), Uppsala University
 + [Yngvil Beyer](https://www.nb.no/ansatte/yngvil-beyer/), Norwegian National Library
++ [Hafsteinn Einarsson](https://english.hi.is/staff/hafsteinne), University of Iceland
 + [Kenneth Enevoldsen](https://kennethenevoldsen.com/), Aarhus University
 + [Jussi Karlgren](https://www.lingvi.st/) (chair), Helsinki University & AMD Silo AI
 + [Benjamin Kille](https://www.ntnu.edu/employees/benjamin.u.kille), Norwegian University of Science and Technology
@@ -91,13 +140,13 @@ region.
 + [Stephan Oepen](https://www.mn.uio.no/ifi/english/people/aca/oe/) (chair), University of Oslo
 + [Barbara Scalvini](https://nors.ku.dk/english/staff/?pure=en/persons/946406), University of Copenhagen
 
-Please feel free to contact programme committee collectively at [llm-summit@ifi.uio.no](mailto:llm-summit@ifi.uio.no), or reach out directly to the summit co-chairs, Jussi Karlgren and Stephan Oepen.
+Please feel free to contact the programme committee collectively at [llm-summit@ifi.uio.no](mailto:llm-summit@ifi.uio.no), or reach out directly to the summit co-chairs, Jussi Karlgren and Stephan Oepen.
 
 <div align="center" style="margin-bottom: 3ex;">
   <img src="/images/oslo.png" alt="Winter in Oslo" width="100%">
 </div>
 
-## Summit Logistics
+## <a id="logistics">Summit Logistics</a>
 
 It should be possible to reach Oslo early Monday morning, for the 10:30 start
 of the summit, from many departure cities in the Nordic–Baltic region.
@@ -109,8 +158,66 @@ The summit will be held at the
 the University of Oslo, which is at the _Forskningsparken_ (research park)
 stop on the metro and tram network.
 
-## Confirmed Participants
+## <a id="participants">Confirmed Participants</a>
 
-+ Jussi Karlgren, Helsinki University & AMD Silo AI
-+ Stephan Oepen, University of Oslo
+1. Eleri Aedmaa, Institute of the Estonian Language
+1. Tanel Alumäe, Tallinn University of Technology
+1. Gianluca Barmina, University of Southern Denmark
+1. Maria Barrett, AMD Silo AI
+1. Guntis Barzdins, University of Latvia
+1. Meriem Beloucif, Uppsala University
+1. Yngvil Beyer, National Library of Norway
+1. Magnus Breder Birkenes, National Library of Norway
+1. Torben Blach, Alexandra Institute
+1. Andreas Bueff, Linköping University
+1. Jonathan Burdge, AMD Silo AI
+1. Lucas Charpentier, National Library of Norway
+1. Aleksei Dorkin, University of Tartu
+1. Hans Eide, Sigma2
+1. Kristine Eide, Language Council of Norway
+1. Hafsteinn Einarsson, University of Iceland
+1. Kenneth Enevoldsen, Aarhus University
+1. Tita Enstad, National Library of Norway
+1. Mark Fishel, University of Tartu
+1. Børre Gaup, UiT The Arctic University of Norwayu
+1. Victoria Handford, National Library of Norway
+1. Fredrik Heintz, Linköping University
+1. Hege Stensrud Høsøien, National Library of Norway
+1. Uni Johannesen, University of the Faroe Islands
+1. Jussi Karlgren, Helsinki University & AMD Silo AI
+1. Benjamin Kille, Norwegian University of Science and Technology
+1. Martins Kronis, Tilde
+1. Taras Kucherenko, National Library of Sweden
+1. Marco Kuhlmann, Linköping University
+1. Jenny Kunz, Linköping University
+1. Andrey Kutuzov, University of Oslo
+1. Rasmus Larsen, Alexandra Institute
+1. Jonas Lind, AI Sweden
+1. Risto Luukkonen, AMD Silo AI
+1. Marthe Midtgaard, National Library of Norway
+1. Sjur Moshagen, UiT The Arctic University of Norway
+1. Per Møldrup-Dalum, Aarhus University
+1. Joakim Nivre, Uppsala University
+1. Stephan Oepen, University of Oslo
+1. Wilfred Østgulen, National Library of Norway
+1. Lilja Øvrelid, University of Oslo
+1. Grigorios Papageorgiou, Norwegian University of Science and Technology
+1. Danila Petrelli, AI Sweden
+1. Klas Pettersen, SimulaMet
+1. Sampo Pyysalo, University of Turku
+1. Faton Rekathati, National Library of Sweden
+1. Javier de la Rosa, National Library of Norway
+1. Jonathan Salisbury, National Library of Sweden
+1. David Samuel, University of Oslo
+1. Barbara Scalvini, Copenhagen University
+1. Yves Scherrer, University of Oslo
+1. Peter Schneider-Kamp, University of Southern Denmark
+1. Sara Stymne, Uppsala University
+1. Jörg Tiedemann, University of Helsinki
+1. Kadri Vare, Institute of the Estonian Language
+1. Erik Velldal, University of Oslo
+2. Mike Zhang, University of Copenhagen
+1. Arturs Znotins, University of Latvia
+1. Elaine Zosa, AMD Silo AI
+
   
