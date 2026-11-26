@@ -63,7 +63,7 @@ committee directly (see below) for specific inquiries.
 |     11:40 |   12:10 | Country Presentation: Finland                         |
 |     12:10 |   12:30 | Discussion                                            |
 |     12:30 |   13:30 | **Lunch (On-Site)**                                   |
-|     13:30 |   14:00 | Country Presentation: Iceland & [Faroe Islands](https://github.com/klynga/summit/blob/main/26/faroes.pdf?raw=true) (Barbara Scalvini) |
+|     13:30 |   14:00 | Country Presentation: Iceland & [Faroe Islands](https://github.com/klynga/summit/blob/main/26/faroes.pdf?raw=true) |
 |     14:00 |   14:30 | Country Presentation: Norway (Stephan Oepen, Yngvil Beyer) |
 |     14:30 |   15:00 | Language Presentations: Sámi                          |
 |     15:00 |   15:30 | **Coffee Break**                                      |
