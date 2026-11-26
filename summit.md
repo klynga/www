@@ -59,16 +59,16 @@ committee directly (see below) for specific inquiries.
 |     10:00 |   10:30 | **Morning Coffee**                                    |
 |     10:30 |   10:40 | Welcome, Introductions (Stephan Oepen, Jussi Karlgren) |
 |     10:40 |   11:10 | Country Presentation: Denmark                         |
-|     11:10 |   11:40 | Country Presentations: Estonia & [Latvia](https://github.com/klynga/summit/blob/main/26/latvia.pdf?raw=true) (Guntis Barzdins)               |
+|     11:10 |   11:40 | Country Presentations: Estonia & [Latvia](https://klynga.github.io/summit/26/latvia.pdf) (Guntis Barzdins)               |
 |     11:40 |   12:10 | Country Presentation: Finland (Sampo Pyysalo)          |
 |     12:10 |   12:30 | Discussion                                            |
 |     12:30 |   13:30 | **Lunch (On-Site)**                                   |
-|     13:30 |   14:00 | Country Presentation: <a target="_blank" href="https://github.com/klynga/summit/blob/main/26/iceland.pdf?raw=true">Iceland</a> & [Faroe Islands](https://github.com/klynga/summit/blob/main/26/faroes.pdf?raw=true) |
+|     13:30 |   14:00 | Country Presentation: [Iceland](https://klynga.github.io/summit/26/iceland.pdf) & [Faroe Islands](https://klynga.github.io/summit/26/faroes.pdf) |
 |     14:00 |   14:30 | Country Presentation: Norway (Stephan Oepen, Yngvil Beyer) |
 |     14:30 |   15:00 | Language Presentations: Sámi                          |
 |     15:00 |   15:30 | **Coffee Break**                                      |
 |     15:30 |   16:30 | Discussion                                            |
-|     16:30 |   17:00 | Country Presentation: [Sweden](https://github.com/klynga/summit/blob/main/26/sweden.pdf?raw=true) (Marco Kuhlmann)         |
+|     16:30 |   17:00 | Country Presentation: [Sweden](https://klynga.github.io/summit/26/sweden.pdf) (Marco Kuhlmann)         |
 |     17:00 |   17:30 | Company Presentations: AMD Silo AI & Tilde (Jonathan Burdge, Martins Kronis) |
 |     17:30 |   18:00 | Planning for Break-Out Sessions                       |
 |     19:30 |         | **[Dinner at the National Lirary](https://www.nb.no/en/)** |
