@@ -60,7 +60,7 @@ committee directly (see below) for specific inquiries.
 |     10:30 |   10:40 | Welcome, Introductions (Stephan Oepen, Jussi Karlgren) |
 |     10:40 |   11:10 | Country Presentation: Denmark                         |
 |     11:10 |   11:40 | Country Presentations: Estonia & [Latvia](https://github.com/klynga/summit/blob/main/26/latvia.pdf?raw=true) (Guntis Barzdins)               |
-|     11:40 |   12:10 | Country Presentation: Finland                         |
+|     11:40 |   12:10 | Country Presentation: Finland (Sampo Pyysalo)          |
 |     12:10 |   12:30 | Discussion                                            |
 |     12:30 |   13:30 | **Lunch (On-Site)**                                   |
 |     13:30 |   14:00 | Country Presentation: Iceland & [Faroe Islands](https://github.com/klynga/summit/blob/main/26/faroes.pdf?raw=true) |
