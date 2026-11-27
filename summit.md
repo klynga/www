@@ -157,6 +157,14 @@ The summit will be held at the
 [Gaustad campus](https://www.mn.uio.no/ifi/english/about/getting-around/) of
 the University of Oslo, which is at the _Forskningsparken_ (research park)
 stop on the metro and tram network.
+The meeting room is hosted at the Department of Informatics (_Ole Johan Dahls hus_)
+in Auditorium Smalltalk (OJD-1416) on the ground level (or first floor, in Norwegian counting)
+right next to the main entrance and the cafeteria.
+
+From the metro stop approach the building across the footbridge (in the back
+of the image above), take the side entrace to your left, walk down one staircase,
+and pass through a long corridor to reach the meeting room (pictured in the front of
+the image).
 
 ## <a id="participants">Confirmed Participants</a>
 
