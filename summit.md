@@ -161,7 +161,7 @@ The meeting room is hosted at the Department of Informatics (_Ole Johan Dahls hu
 in Auditorium Smalltalk (OJD-1416) on the ground level (or first floor, in Norwegian counting)
 right next to the main entrance and the cafeteria.
 
-From the metro stop approach the building across the footbridge (in the back
+From the metro stop approach, the building across the footbridge (visible in the back
 of the image above), take the side entrace to your left, walk down one staircase,
 and pass through a long corridor to reach the meeting room (pictured in the front of
 the image).
